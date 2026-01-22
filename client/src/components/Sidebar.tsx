@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Search, Navigation, MapPin, Loader2, X, Menu, ArrowRight } from 'lucide-react';
+import { Search, Navigation, MapPin, X, Menu, ArrowRight } from 'lucide-react';
 import axios from 'axios';
 
 interface SidebarProps {
